@@ -5,3 +5,4 @@ Git tracks changs of files.
 Creating a new branck is quick and simple.
 Git can merge branches.
 fix bugs
+and then continue
